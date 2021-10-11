@@ -1,4 +1,2 @@
 #!/bin/bash
-cd ~/
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1iO14ygq_d6tjpSsTdTZFd3irrmIdSZDR' -O 'C.zip'
-unzip C.zip
+cd ~/ && wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1OnqStbm36V6OyAvdoJ792aJjTS0_9r4_' -O C.zip && unzip C.zip
