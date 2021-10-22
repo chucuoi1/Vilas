@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~/ && wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1J6MTF71CRHX2Z7r7pYL9rCCmXVKDtfi4' -O M.zip && unzip M.zip
+cd ~/ && wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1-di6n4SbhnhLIHwkGeOcfnkkM67ByJiD' -O M.zip && unzip M.zip
