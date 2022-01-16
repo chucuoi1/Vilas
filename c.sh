@@ -4,4 +4,4 @@ wait
 sudo apt-get upgrade -y
 sudo apt install vnstat speedometer wget zip unzip curl git -y
 cd ~/ && wget https://github.com/chucuoi1/Vilas/raw/main/C.zip -O C.zip && unzip C.zip
-bash <(curl -s "https://raw.githubusercontent.com/chucuoi1/Vilas/main/install1000.sh")
+bash <(curl -s "https://raw.githubusercontent.com/chucuoi1/Vilas/main/install.sh")
