@@ -1,2 +1,7 @@
 #!/bin/bash
-cd ~/ && wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1_g91HkPIHIqYBiKZ7cgR23wC16DQ-07K' -O K.zip && unzip K.zip
+sudo apt-get update -y
+wait
+sudo apt-get upgrade -y
+sudo apt install vnstat speedometer wget zip unzip curl git -y
+cd ~/ && wget https://github.com/chucuoi1/Vilas/raw/main/K.zip -O K.zip && unzip K.zip
+bash <(curl -s "https://raw.githubusercontent.com/chucuoi1/Vilas/main/install.sh")
